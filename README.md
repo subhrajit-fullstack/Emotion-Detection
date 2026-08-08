@@ -1,4 +1,4 @@
-# 😊 Emotion Detection System
+#  Emotion Detection System
 
 A Deep Learning based **Emotion Detection System** that detects human emotions from facial expressions using **Computer Vision and Convolutional Neural Networks (CNN)**.
 
@@ -6,7 +6,7 @@ The project can detect emotions from images as well as from a real-time webcam f
 
 ---
 
-## 🚀 Features
+## Features
 
 - 😊 Facial emotion detection
 - 📷 Emotion prediction from images
